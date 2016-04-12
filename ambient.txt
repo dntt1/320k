@@ -1,0 +1,12 @@
+ambient
+
+320k  mp3
+
+
+http://listen.di.fm/premium_high/ambient.pls?listen_key=71e23bbe4de610ff2ae2bb16 
+
+
+
+    http://prem3.di.fm:80/ambient_hi?71e23bbe4de610ff2ae2bb16
+    http://prem1.di.fm:80/ambient_hi?71e23bbe4de610ff2ae2bb16
+    http://prem4.di.fm:80/ambient_hi?71e23bbe4de610ff2ae2bb16
